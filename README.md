@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java & DSA and side by side Flutter<br>🤝 I’m looking for friends so we can learn together<br>⚡ Fun fact :  Fun fact: Big Fan of the ⚡ emoji 
+🌱 I’m currently learning c++ & DSA and side by side Flutter<br>🤝 I’m looking for friends so we can learn together<br>⚡ Fun fact :  Fun fact: Big Fan of the ⚡ emoji 
 
 
 ## 🌐 Socials:
